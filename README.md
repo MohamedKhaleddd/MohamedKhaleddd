@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/0000000/typing-animation.gif" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Generative+AI+Developer;Django+%7C+React+%7C+Docker;Building+Wizan+AI" />
 </p>
 
 
