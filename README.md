@@ -19,7 +19,7 @@
   </a>
 
   <a href="https://wa.me/201279527483">
-    <img src="https://img.shields.io/badge/WhatsApp-01279527483-green?style=for-the-badge&logo=whatsapp"/>
+    <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp"/>
   </a>
 
   <a href="https://linkedin.com/in/mohamed-elftiany-b94b53229">
