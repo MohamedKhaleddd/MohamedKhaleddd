@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;Generative+AI+Developer+Using+Python;Django+REST+Framework+Expert;React+%7C+PostgreSQL+%7C+Docker;Building+AI-Powered+Solutions;Problem+Solver;Open+to+Backend+and+Full+Stack+Opportunities+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;Generative+AI+Developer;Django+%7C+React+%7C+Docker;Building+Wizan+AI" />
 </p>
+
 
 <p align="center">
   <a href="https://mohamed-khaled-elftiany-portfolio.netlify.app/">
