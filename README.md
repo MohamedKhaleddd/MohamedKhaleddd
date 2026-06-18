@@ -1,6 +1,14 @@
-<h1 align="center">🚀 Mohamed Khaled Elftiany 🚀</h1>
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Mohamed%20Khaled&fontSize=65&fontAlignY=38&desc=Full%20Stack%20%26%20Generative%20AI%20Developer%20Using%20Python&descAlignY=62&animation=twinkling"/>
+</p>
 
-<h3 align="center">Full Stack & Generative AI Developer using Python</h3>
+<h3 align="center">
+🚀 Full Stack & Generative AI Developer using Python
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Django+Developer;React+Developer;Generative+AI+Engineer;Docker+%7C+PostgreSQL+%7C+Linux;Building+Wizan+AI;Always+Learning+🚀"/>
+</p>
 
 <p align="center">
   <a href="https://mohamed-khaled-elftiany-portfolio.netlify.app/">
