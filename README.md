@@ -3,10 +3,6 @@
 <h3 align="center">Full Stack & Generative AI Developer using Python</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=900&lines=Full+Stack+Developer;Generative+AI+Developer+Using+Python;Django+%7C+Flask+%7C+React;REST+APIs+%7C+PostgreSQL+%7C+Docker;DevOps+Learner;Always+Building+Something+Awesome+🚀" />
-</p>
-
-<p align="center">
   <a href="https://mohamed-khaled-elftiany-portfolio.netlify.app/">
     <img src="https://img.shields.io/badge/🌐 Portfolio-Live Website-blue?style=for-the-badge"/>
   </a>
