@@ -1,81 +1,111 @@
-# Hi 👋, I'm Mohamed Khaled Elftiany
+<h1 align="center">Hi 👋, I'm Mohamed Khaled</h1>
 
-### Python Backend Developer | Django & Flask Developer | DevOps Learner
+<h3 align="center">Python Backend Developer | Django & Flask | DevOps Learner</h3>
 
-🚀 Passionate about building scalable backend applications and integrating modern technologies into real-world solutions.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;Django+%26+Flask+Developer;Building+REST+APIs;Docker+%7C+PostgreSQL+%7C+Linux;Always+Learning+New+Things+🚀" />
+</p>
+
+---
+
+## 🚀 About Me
 
 * 🎓 Computer Science Graduate
-* 💼 Full Stack Web & Generative AI Developer Trainee at ITI
-* 🐍 Python Backend Developer
-* 🌱 Currently learning DevOps, Docker, Kubernetes & Cloud Technologies
-* 📍 Tanta, Egypt (Open to Relocation)
+* 💼 ITI Full Stack Web & Generative AI Trainee
+* 🐍 Passionate about Python Backend Development
+* 🔥 Building scalable APIs using Django & Flask
+* 🐳 Learning DevOps, Docker & Kubernetes
+* 🌱 Always improving my problem-solving skills
 
-## 🛠️ Tech Stack
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/mohamed-elftiany-b94b53229">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:mk5920201@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack
 
 ### Backend
 
-* Python
-* Django
-* Django REST Framework
-* Flask
-* REST APIs
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask)
 
 ### Frontend
 
-* React.js
-* JavaScript (ES6+)
-* HTML5
-* CSS3
-* Bootstrap
-* jQuery
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap)
 
-### Databases
+### Database
 
-* PostgreSQL
-* MySQL
-* MongoDB
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
 
 ### DevOps & Tools
 
-* Git
-* GitHub
-* Docker
-* Kubernetes
-* Linux
-* Bash
-* Postman
-* Jira
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MohamedKhaleddd&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedKhaleddd&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=MohamedKhaleddd&theme=tokyonight"/>
+</p>
+
+---
 
 ## 🚀 Featured Projects
 
-### Medical Appointment Management System
+### 🏥 Medical Appointment Management System
 
-Full-stack medical appointment system with authentication, appointment booking, doctor scheduling, admin dashboard, email notifications, and role-based access control.
+Full-stack healthcare platform with JWT Authentication, Role-Based Access, Appointment Scheduling, Email Notifications, and Admin Dashboard.
 
-**Tech Stack:** Django, DRF, React, Redux Toolkit, PostgreSQL, JWT, Git, Docker
+**Stack:** Django, DRF, React, Redux Toolkit, PostgreSQL, Docker
 
-### Multi-Actor E-Commerce System
+---
 
-Role-based e-commerce platform supporting Admin, Vendor, and Customer workflows with product management and order processing.
+### 🛒 Multi-Actor E-Commerce System
 
-**Tech Stack:** JavaScript, jQuery, HTML5, CSS3, Bootstrap
+Role-based E-commerce platform supporting Admin, Vendor, and Customer workflows.
 
-### Student Grade Management System
+**Stack:** JavaScript, jQuery, Bootstrap
 
-CLI-based Bash application supporting CRUD operations, GPA calculations, reports, and validation.
+---
 
-**Tech Stack:** Bash, Linux, awk, sed, grep
+### 🎓 Student Grade Management System
 
-## 📜 Certifications
+CLI application for managing students, grades, GPA calculations, reports, and validation.
 
-* Python Essentials 1 – Cisco Networking Academy
-* Python Essentials 2 – Cisco Networking Academy
-* Programming with Python – SprintUp
+**Stack:** Bash, Linux, awk, sed, grep
 
-## 📫 Connect With Me
+---
 
-* LinkedIn: [www.linkedin.com/in/mohamed-elftiany-b94b53229](http://www.linkedin.com/in/mohamed-elftiany-b94b53229)
-* GitHub: github.com/MohamedKhaleddd
-* Email: [mk5920201@gmail.com](mailto:mk5920201@gmail.com)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MohamedKhaleddd&label=Profile+Views&color=0e75b6&style=flat"/>
+</p>
 
-⭐ Always learning, always building.
+<h3 align="center">⭐ Turning Ideas Into Scalable Solutions ⭐</h3>
