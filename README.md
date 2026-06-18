@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Generative+AI+Developer;Django+%7C+Flask+%7C+React;PostgreSQL+%7C+Docker+%7C+Linux;Building+Wizan+AI;Always+Learning+New+Things+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;Generative+AI+Developer+Using+Python;Django+REST+Framework+Expert;React+%7C+PostgreSQL+%7C+Docker;Building+AI-Powered+Solutions;Problem+Solver;Open+to+Backend+and+Full+Stack+Opportunities+🚀" />
 </p>
 
 <p align="center">
