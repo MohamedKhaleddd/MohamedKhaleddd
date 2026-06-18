@@ -29,25 +29,26 @@
 
 ---
 
-# 💫 About Me
+## 👨‍💻 About Me
 
+```javascript
 const mohamed = {
   name: "Mohamed Khaled Elftiany",
   role: "Software Engineer | Full Stack & Generative AI Developer",
   education: "B.Sc. Computer Science — Menoufia University 🎓",
   location: "Tanta, Egypt 🇪🇬 (Open to relocation 🌍)",
-  
+
   status: "Open to Full-Time / Internship Opportunities 🟢",
 
   interests: [
     "Backend Development",
-    "Full Stack Web Apps",
+    "Full Stack Web Development",
     "Generative AI",
     "System Design",
     "Building Real Products"
   ],
 
-  currentFocus: "Building scalable AI-powered applications (Wizan AI 🧠)",
+  currentFocus: "Building Wizan AI 🧠",
 
   techStack: {
     backend: ["Python", "Django", "Flask", "REST APIs"],
@@ -57,23 +58,22 @@ const mohamed = {
   },
 
   askMeAbout: [
-    "Python Backend",
+    "Python Backend Development",
     "Django REST Framework",
-    "APIs Design",
+    "API Design",
     "AI Integration",
     "System Architecture"
   ],
 
-  achievements: [
-    "Built Medical Appointment System 🏥",
-    "Built Multi-Actor E-Commerce System 🛒",
-    "Working on Wizan AI 🧠"
+  projects: [
+    "Wizan AI 🧠",
+    "Medical Appointment System 🏥",
+    "E-Commerce Platform 🛒"
   ],
 
-  funFact: "I turn coffee into backend systems ☕⚙️"
+  funFact: "I turn coffee into scalable backend systems ☕⚙️"
 };
-
----
+```
 
 # ⚡ Tech Arsenal
 
