@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer+Using+Python;Generative+AI+Developer;Django+%7C+React+%7C+Docker+%7C+Python;Open+To+Relocate;Always+Learning+Always+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer+Using+Python;Generative+AI+Developer;Django+%7C+React+%7C+Docker+%7C+Python;Open+To+Relocate;Always+Learning,+Always+Building" />
 </p>
 
 
