@@ -1,10 +1,6 @@
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Mohamed%20Khaled%20Elftiany&fontSize=55&fontAlignY=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Mohamed%20Khaled%20Elftiany&fontSize=60&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=63"/>
 </p>
-
-<h3 align="center">
-🚀 Full Stack & Generative AI Developer using Python
-</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Generative+AI+Developer;Django+%7C+Flask+%7C+React;PostgreSQL+%7C+Docker+%7C+Linux;Building+Wizan+AI;Always+Learning+New+Things+🚀"/>
