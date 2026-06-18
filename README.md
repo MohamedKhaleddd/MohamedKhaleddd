@@ -28,7 +28,7 @@
 
 ✨ Full Stack & Generative AI Developer using Python
 
-🔹 Passionate about building scalable web applications
+🔹 Passionate about building scalable web applications and AI-powered solutions
 
 🔹 Experienced with Backend Development using Django & Flask
 
@@ -78,35 +78,43 @@
 
 # 🚀 Featured Projects
 
+### 🧠 Wizan AI
+
+AI-powered productivity platform designed to help users manage tasks, regulate workload, improve focus, and enhance productivity through intelligent recommendations and AI-powered features.
+
+**Stack:** Django • Django REST Framework • React • PostgreSQL • Docker • Generative AI • JWT Authentication
+
+---
+
 ### 🏥 Medical Appointment Management System
 
-Full-stack healthcare platform with authentication, appointment scheduling, doctor availability management, email notifications and role-based access control.
+Healthcare platform supporting authentication, appointment scheduling, doctor availability management, email notifications, role-based access control, and admin dashboards.
 
-**Stack:** Django, DRF, React, Redux Toolkit, PostgreSQL, JWT, Docker
+**Stack:** Django • Django REST Framework • React • Redux Toolkit • PostgreSQL • Docker • JWT Authentication
 
 ---
 
 ### 🛒 Multi-Actor E-Commerce System
 
-Role-based E-Commerce platform supporting Admin, Vendor and Customer workflows.
+Role-based e-commerce platform supporting Admin, Vendor, and Customer workflows with product management and order handling.
 
-**Stack:** JavaScript, jQuery, Bootstrap, HTML5, CSS3
+**Stack:** JavaScript • jQuery • Bootstrap • HTML5 • CSS3
 
 ---
 
 ### 🎓 Student Grade Management System
 
-CLI-based Bash application supporting CRUD operations, GPA calculations, reports and validations.
+CLI-based Bash application supporting CRUD operations, GPA calculations, statistical reports, validation, and file-based storage.
 
-**Stack:** Bash, Linux, awk, sed, grep
+**Stack:** Bash • Linux • awk • sed • grep
 
 ---
 
 # 🏆 Certifications
 
-🏅 Python Essentials 1 – Cisco
+🏅 Python Essentials 1 – Cisco Networking Academy
 
-🏅 Python Essentials 2 – Cisco
+🏅 Python Essentials 2 – Cisco Networking Academy
 
 🏅 Programming with Python – SprintUp
 
@@ -131,9 +139,7 @@ CLI-based Bash application supporting CRUD operations, GPA calculations, reports
 ---
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=MohamedKhaleddd&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
 </p>
 
 <h2 align="center">
