@@ -1,9 +1,24 @@
 <h1 align="center">Hi 👋, I'm Mohamed Khaled</h1>
 
-<h3 align="center">Python Backend Developer | Django & Flask | DevOps Learner</h3>
+<h3 align="center">Python Backend Developer | Django & Flask | REST APIs | PostgreSQL | Docker</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;Django+%26+Flask+Developer;Building+REST+APIs;Docker+%7C+PostgreSQL+%7C+Linux;Always+Learning+New+Things+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;Django+Developer;Flask+Developer;Building+REST+APIs;Docker+%7C+PostgreSQL+%7C+Linux;Always+Learning+New+Things+🚀" />
+</p>
+
+<p align="center">
+  <a href="https://mohamed-khaled-elftiany-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-blue?style=for-the-badge"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/mohamed-elftiany-b94b53229">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:mk5920201@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
 </p>
 
 ---
@@ -12,68 +27,63 @@
 
 * 🎓 Computer Science Graduate
 * 💼 ITI Full Stack Web & Generative AI Trainee
-* 🐍 Passionate about Python Backend Development
-* 🔥 Building scalable APIs using Django & Flask
-* 🐳 Learning DevOps, Docker & Kubernetes
-* 🌱 Always improving my problem-solving skills
+* 🐍 Python Backend Developer passionate about scalable backend systems
+* 🔥 Experienced with Django, Flask, REST APIs and PostgreSQL
+* 🐳 Working with Docker, Linux and GitHub
+* 🌱 Currently learning DevOps and Kubernetes
+* 📍 Tanta, Egypt | Open to Relocation
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/mohamed-elftiany-b94b53229">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:mk5920201@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-</p>
-
----
-
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
 ### Backend
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask)
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,flask" />
+</p>
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap)
+<p>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" />
+</p>
 
-### Database
+### Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
 
 ### DevOps & Tools
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,postman,bash" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MohamedKhaleddd&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedKhaleddd&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohamedKhaleddd&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedKhaleddd&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=MohamedKhaleddd&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=MohamedKhaleddd&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MohamedKhaleddd&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
@@ -82,25 +92,39 @@
 
 ### 🏥 Medical Appointment Management System
 
-Full-stack healthcare platform with JWT Authentication, Role-Based Access, Appointment Scheduling, Email Notifications, and Admin Dashboard.
+Full-stack healthcare platform with authentication, appointment scheduling, email notifications, doctor availability management, role-based access control, and admin dashboard.
 
-**Stack:** Django, DRF, React, Redux Toolkit, PostgreSQL, Docker
+**Tech Stack:** Django, Django REST Framework, React.js, Redux Toolkit, PostgreSQL, JWT Authentication, Docker, GitHub
 
 ---
 
 ### 🛒 Multi-Actor E-Commerce System
 
-Role-based E-commerce platform supporting Admin, Vendor, and Customer workflows.
+Role-based e-commerce platform supporting Admin, Vendor, and Customer workflows with product management and order handling.
 
-**Stack:** JavaScript, jQuery, Bootstrap
+**Tech Stack:** JavaScript, jQuery, Bootstrap, HTML5, CSS3
 
 ---
 
 ### 🎓 Student Grade Management System
 
-CLI application for managing students, grades, GPA calculations, reports, and validation.
+CLI-based Bash application supporting CRUD operations, GPA calculations, statistical reports, validation, and file-based storage.
 
-**Stack:** Bash, Linux, awk, sed, grep
+**Tech Stack:** Bash, Linux, awk, sed, grep
+
+---
+
+### 📈 Data Analysis Projects
+
+Data analysis and visualization using Python, SQL, Excel, and Power BI.
+
+---
+
+## 📫 Contact Me
+
+* 🌐 Portfolio: https://mohamed-khaled-elftiany-portfolio.netlify.app/
+* 💼 LinkedIn: linkedin.com/in/mohamed-elftiany-b94b53229
+* 📧 Email: [mk5920201@gmail.com](mailto:mk5920201@gmail.com)
 
 ---
 
@@ -108,4 +132,4 @@ CLI application for managing students, grades, GPA calculations, reports, and va
   <img src="https://komarev.com/ghpvc/?username=MohamedKhaleddd&label=Profile+Views&color=0e75b6&style=flat"/>
 </p>
 
-<h3 align="center">⭐ Turning Ideas Into Scalable Solutions ⭐</h3>
+<h3 align="center">⭐ Turning Ideas Into Scalable Backend Solutions ⭐</h3>
