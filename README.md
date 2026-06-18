@@ -31,19 +31,47 @@
 
 # 💫 About Me
 
-✨ Full Stack & Generative AI Developer using Python
+const mohamed = {
+  name: "Mohamed Khaled Elftiany",
+  role: "Software Engineer | Full Stack & Generative AI Developer",
+  education: "B.Sc. Computer Science — Menoufia University 🎓",
+  location: "Tanta, Egypt 🇪🇬 (Open to relocation 🌍)",
+  
+  status: "Open to Full-Time / Internship Opportunities 🟢",
 
-🔹 Passionate about building scalable web applications and AI-powered solutions
+  interests: [
+    "Backend Development",
+    "Full Stack Web Apps",
+    "Generative AI",
+    "System Design",
+    "Building Real Products"
+  ],
 
-🔹 Experienced with Backend Development using Django & Flask
+  currentFocus: "Building scalable AI-powered applications (Wizan AI 🧠)",
 
-🔹 Building REST APIs and Database-Driven Applications
+  techStack: {
+    backend: ["Python", "Django", "Flask", "REST APIs"],
+    frontend: ["React", "JavaScript", "HTML", "CSS"],
+    database: ["PostgreSQL", "MySQL", "MongoDB"],
+    devOps: ["Docker", "Linux", "Git", "GitHub"]
+  },
 
-🔹 Interested in DevOps, Docker, Linux & Kubernetes
+  askMeAbout: [
+    "Python Backend",
+    "Django REST Framework",
+    "APIs Design",
+    "AI Integration",
+    "System Architecture"
+  ],
 
-🔹 Strong Problem Solving & Continuous Learning Mindset
+  achievements: [
+    "Built Medical Appointment System 🏥",
+    "Built Multi-Actor E-Commerce System 🛒",
+    "Working on Wizan AI 🧠"
+  ],
 
-🔹 Open to Backend, Full Stack and AI Opportunities
+  funFact: "I turn coffee into backend systems ☕⚙️"
+};
 
 ---
 
