@@ -35,7 +35,7 @@
 const mohamed = {
   name: "Mohamed Khaled Elftiany",
   role: "Software Engineer | Full Stack & Generative AI Developer",
-  education: "B.Sc. in Computer Science, Faculty of Computers and Information, Menoufia University 🎓",
+  education: "Faculty of Computers and Information — Computer Science, Menoufia University 🎓",
   location: "Tanta, Egypt 🇪🇬 (Open to relocation 🌍)",
 
   status: "Open to Full-Time / Internship Opportunities 🟢",
